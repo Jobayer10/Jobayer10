@@ -6,7 +6,7 @@ I'm a self-learner of FullStack Web Development, WordPress Development & Digital
 
 I'm very passionate and dedicated to my work & I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.
 
-Skills: HTML / CSS / JS 
+Skills: HTML / CSS / jQuery / JS / Wordpress
 
 - 🔭 I’m currently working on WordPress 
 - 🌱 I’m currently learning JavaScript, PHP, Laravel 
