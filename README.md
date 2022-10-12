@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jobayer Ahmad
-#### Web Developer
-![Web Developer](https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/49205830_995870673943821_6807243849551839232_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=9PJCd6eHvp4AX8vWYQK&_nc_ht=scontent.fdac135-1.fna&oh=00_AT-7zSHzsLLZShu9_N1xmAQydjoyqGZV0LzA2K1UV47xag&oe=636CF47A)
+#### Web Developer & Digital Marketer
+![Web Developer & Digital Marketer](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/265041231_109956488193987_8714301847810349905_n.jpg?stp=dst-jpg_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=tVb4Ea-TnLMAX8PhT-O&_nc_ht=scontent.fdac135-1.fna&oh=00_AT8vLZ6Oy3ty2VHfmMKjV9bdjLtOl5KFNx4feU9hV4Fj9A&oe=634C225C)
 
 I'm a self-learner of FullStack Web Development, WordPress Development & Digital Marketing from Gazipur, Dhaka, Bangladesh.
 
